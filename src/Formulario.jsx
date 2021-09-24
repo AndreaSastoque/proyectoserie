@@ -32,7 +32,7 @@ class Formulario extends Component{
     render(){
         return(
             <div id="elemento">
-                <h1>Formulario</h1>
+                <font face="Comic Sans MS,arial,verdana"><font color="Black"><center><h1>Formulario</h1></center></font></font>
                 <form action="">
                     <label htmlFor="">Nombre</label><br/>
                     <input type="text" name="nombre" onChange={ this.cambiarNombre } /><br/>

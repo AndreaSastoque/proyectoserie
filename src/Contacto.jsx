@@ -4,7 +4,10 @@ import Formulario from './Formulario';
 const Contacto = () => (
     <>
          <Formulario />   
+
+         
     </>
 );
+
 
 export default Contacto;
